@@ -70,15 +70,6 @@ body {
     transition: background-color 0.3s ease;
 }
 
-.btns {
-  background-color: #4CAF50;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  text-decoration: none;
-}
-
 .btn:hover {
     background-color: #412126;
 }
